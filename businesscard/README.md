@@ -7,7 +7,7 @@
 
 ## Table of contents
 
-### another change on the vs code 
+### another change on the
 
 - [Overview](#overview)
   - [Screenshots](#screenshots)
