@@ -5,6 +5,7 @@ module.exports = {
   },
 }
 
+--- more comments here !!!
 module.exports = {
   plugins: {
     tailwindcss: {},
