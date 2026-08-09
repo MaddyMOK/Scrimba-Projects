@@ -6,17 +6,6 @@ module.exports = {
 }
 
 --- more comments here !!!
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
 
 
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
+--- Today sunday chnages ---
